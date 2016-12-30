@@ -1,0 +1,3 @@
+/home/david/ClionProjects/hackerrank_minimum_average_waiting_time/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/ClionProjects/hackerrank_minimum_average_waiting_time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/ClionProjects/hackerrank_minimum_average_waiting_time/cmake-build-debug/CMakeFiles/hackerrank_minimum_average_waiting_time.dir

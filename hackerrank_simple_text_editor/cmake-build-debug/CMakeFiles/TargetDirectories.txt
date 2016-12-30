@@ -1,0 +1,3 @@
+/home/david/ClionProjects/hackerrank_simple_text_editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/ClionProjects/hackerrank_simple_text_editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/ClionProjects/hackerrank_simple_text_editor/cmake-build-debug/CMakeFiles/hackerrank_simple_text_editor.dir

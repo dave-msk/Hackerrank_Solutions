@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_vertical_sticks.dir/main.cpp.o  -o hackerrank_vertical_sticks 

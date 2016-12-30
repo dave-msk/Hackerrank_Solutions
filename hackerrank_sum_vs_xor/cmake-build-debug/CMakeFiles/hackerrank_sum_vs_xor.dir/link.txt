@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_sum_vs_xor.dir/main.cpp.o  -o hackerrank_sum_vs_xor 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_components_in_a_graph.dir/main.cpp.o  -o hackerrank_components_in_a_graph 

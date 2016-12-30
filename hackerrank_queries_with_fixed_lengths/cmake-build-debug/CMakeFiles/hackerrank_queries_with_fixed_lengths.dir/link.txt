@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_queries_with_fixed_lengths.dir/main.cpp.o  -o hackerrank_queries_with_fixed_lengths 

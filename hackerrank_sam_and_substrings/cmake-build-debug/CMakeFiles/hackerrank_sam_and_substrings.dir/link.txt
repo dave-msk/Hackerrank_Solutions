@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_sam_and_substrings.dir/main.cpp.o  -o hackerrank_sam_and_substrings 

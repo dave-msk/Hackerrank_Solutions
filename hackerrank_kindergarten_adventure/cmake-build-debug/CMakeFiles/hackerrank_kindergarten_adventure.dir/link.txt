@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_kindergarten_adventure.dir/main.cpp.o  -o hackerrank_kindergarten_adventure 

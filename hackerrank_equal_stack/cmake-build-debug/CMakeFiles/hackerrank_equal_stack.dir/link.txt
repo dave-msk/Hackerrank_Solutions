@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_equal_stack.dir/main.cpp.o  -o hackerrank_equal_stack 

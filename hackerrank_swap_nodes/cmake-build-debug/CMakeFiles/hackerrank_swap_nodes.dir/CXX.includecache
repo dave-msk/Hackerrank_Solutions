@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/ClionProjects/hackerrank_swap_nodes/main.cpp
+cmath
+-
+cstdio
+-
+vector
+-
+stack
+-
+queue
+-
+iostream
+-
+algorithm
+-
+

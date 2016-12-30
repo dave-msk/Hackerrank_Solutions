@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_snakes_and_ladders.dir/main.cpp.o  -o hackerrank_snakes_and_ladders 

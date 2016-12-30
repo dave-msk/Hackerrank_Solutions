@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_AND_xor_OR.dir/main.cpp.o  -o hackerrank_AND_xor_OR 

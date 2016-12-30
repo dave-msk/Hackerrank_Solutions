@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_whats_next.dir/main.cpp.o  -o hackerrank_whats_next 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_and_product.dir/main.cpp.o  -o hackerrank_and_product 

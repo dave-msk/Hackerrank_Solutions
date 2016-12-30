@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_truck_tour.dir/main.cpp.o  -o hackerrank_truck_tour 

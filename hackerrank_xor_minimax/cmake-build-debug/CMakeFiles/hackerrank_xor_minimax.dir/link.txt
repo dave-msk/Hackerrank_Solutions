@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_xor_minimax.dir/main.cpp.o  -o hackerrank_xor_minimax 

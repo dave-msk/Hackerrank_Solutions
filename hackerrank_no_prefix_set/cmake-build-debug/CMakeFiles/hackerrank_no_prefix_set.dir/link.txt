@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_no_prefix_set.dir/main.cpp.o  -o hackerrank_no_prefix_set 

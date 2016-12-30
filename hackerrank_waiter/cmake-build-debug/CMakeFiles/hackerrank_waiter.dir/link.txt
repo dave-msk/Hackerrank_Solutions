@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_waiter.dir/main.cpp.o  -o hackerrank_waiter 

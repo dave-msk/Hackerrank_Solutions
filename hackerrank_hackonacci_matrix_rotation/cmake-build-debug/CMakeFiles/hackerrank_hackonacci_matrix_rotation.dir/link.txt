@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_hackonacci_matrix_rotation.dir/main.cpp.o  -o hackerrank_hackonacci_matrix_rotation 

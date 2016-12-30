@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_simple_text_editor.dir/main.cpp.o  -o hackerrank_simple_text_editor 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_minimum_average_waiting_time.dir/main.cpp.o  -o hackerrank_minimum_average_waiting_time 

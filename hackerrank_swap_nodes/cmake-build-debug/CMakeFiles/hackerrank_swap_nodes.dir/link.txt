@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_swap_nodes.dir/main.cpp.o  -o hackerrank_swap_nodes 

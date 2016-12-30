@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_hackerrank_city.dir/main.cpp.o  -o hackerrank_hackerrank_city 

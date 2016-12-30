@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_qheap.dir/main.cpp.o  -o hackerrank_qheap 

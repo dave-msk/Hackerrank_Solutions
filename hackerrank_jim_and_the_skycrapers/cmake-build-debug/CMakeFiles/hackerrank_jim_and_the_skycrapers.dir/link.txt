@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_jim_and_the_skycrapers.dir/main.cpp.o  -o hackerrank_jim_and_the_skycrapers 

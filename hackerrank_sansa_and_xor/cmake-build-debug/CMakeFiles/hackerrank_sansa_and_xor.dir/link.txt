@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_sansa_and_xor.dir/main.cpp.o  -o hackerrank_sansa_and_xor 

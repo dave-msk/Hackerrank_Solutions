@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_red_john_is_back.dir/main.cpp.o  -o hackerrank_red_john_is_back 
