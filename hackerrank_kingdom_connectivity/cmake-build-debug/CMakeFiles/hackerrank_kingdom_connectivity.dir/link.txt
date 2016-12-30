@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_kingdom_connectivity.dir/main.cpp.o  -o hackerrank_kingdom_connectivity 
