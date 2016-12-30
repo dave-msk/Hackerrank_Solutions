@@ -1,3 +1,0 @@
-/home/david/ClionProjects/hackerrank_kingdom_connectivity/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/david/ClionProjects/hackerrank_kingdom_connectivity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/david/ClionProjects/hackerrank_kingdom_connectivity/cmake-build-debug/CMakeFiles/hackerrank_kingdom_connectivity.dir
