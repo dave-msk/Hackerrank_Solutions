@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_the_indian_job.dir/main.cpp.o  -o hackerrank_the_indian_job 

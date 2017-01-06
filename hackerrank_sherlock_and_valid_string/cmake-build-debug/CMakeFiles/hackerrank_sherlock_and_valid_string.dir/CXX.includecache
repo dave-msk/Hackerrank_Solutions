@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_sherlock_and_valid_string/main.cpp
+iostream
+-
+string
+-
+map
+-
+set
+-
+

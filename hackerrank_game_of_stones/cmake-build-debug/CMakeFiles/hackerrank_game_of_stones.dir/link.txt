@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_game_of_stones.dir/main.cpp.o  -o hackerrank_game_of_stones 

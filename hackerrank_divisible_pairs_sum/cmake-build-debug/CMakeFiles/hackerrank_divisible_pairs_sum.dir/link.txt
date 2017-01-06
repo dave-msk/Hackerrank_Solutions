@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_divisible_pairs_sum.dir/main.cpp.o  -o hackerrank_divisible_pairs_sum 

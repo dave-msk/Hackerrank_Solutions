@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_build_a_string/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+ctime
+-
+tuple
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_superman_celebrates_diwali.dir/main.cpp.o  -o hackerrank_superman_celebrates_diwali 

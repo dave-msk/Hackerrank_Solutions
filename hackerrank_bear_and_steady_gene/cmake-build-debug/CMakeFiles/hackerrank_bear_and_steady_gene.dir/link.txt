@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_bear_and_steady_gene.dir/main.cpp.o  -o hackerrank_bear_and_steady_gene 

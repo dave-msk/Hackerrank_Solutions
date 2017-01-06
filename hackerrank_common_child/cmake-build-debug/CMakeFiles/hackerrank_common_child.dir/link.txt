@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_common_child.dir/main.cpp.o  -o hackerrank_common_child 

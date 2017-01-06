@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_bricks_game.dir/main.cpp.o  -o hackerrank_bricks_game 
