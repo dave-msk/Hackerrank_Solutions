@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_permuting_two_arrays.dir/main.cpp.o  -o hackerrank_permuting_two_arrays 

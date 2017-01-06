@@ -1,0 +1,3 @@
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_sherlock_and_the_beast/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_sherlock_and_the_beast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_sherlock_and_the_beast/cmake-build-debug/CMakeFiles/hackerrank_sherlock_and_the_beast.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_greedy_florist.dir/main.cpp.o  -o hackerrank_greedy_florist 

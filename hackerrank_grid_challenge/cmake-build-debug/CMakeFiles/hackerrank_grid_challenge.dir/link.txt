@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_grid_challenge.dir/main.cpp.o  -o hackerrank_grid_challenge 

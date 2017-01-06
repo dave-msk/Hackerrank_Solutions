@@ -1,0 +1,3 @@
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_goodland_electricity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_goodland_electricity/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/ClionProjects/Hackerrank_Solutions/hackerrank_goodland_electricity/cmake-build-debug/CMakeFiles/hackerrank_goodland_electricity.dir
