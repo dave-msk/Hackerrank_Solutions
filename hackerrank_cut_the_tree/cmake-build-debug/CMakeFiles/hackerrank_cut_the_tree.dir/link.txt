@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_cut_the_tree.dir/main.cpp.o  -o hackerrank_cut_the_tree 

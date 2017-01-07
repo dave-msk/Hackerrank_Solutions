@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hackerrank_hackerland_radio_transmitters.dir/main.cpp.o  -o hackerrank_hackerland_radio_transmitters 
